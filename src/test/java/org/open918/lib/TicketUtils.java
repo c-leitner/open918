@@ -7,7 +7,7 @@ import java.nio.charset.StandardCharsets;
 import java.text.ParseException;
 import java.util.zip.DataFormatException;
 
-import javax.xml.bind.DatatypeConverter;
+import jakarta.xml.bind.DatatypeConverter;
 
 /**
  * Created by Joel Haasnoot on 17/10/15.

@@ -6,7 +6,7 @@ import org.open918.lib.UicStarBlockParser;
 import org.open918.lib.domain.GenericTicketDetails;
 import org.open918.lib.domain.Ticket;
 
-import javax.xml.bind.DatatypeConverter;
+import jakarta.xml.bind.DatatypeConverter;
 import java.nio.charset.StandardCharsets;
 import java.text.ParseException;
 import java.util.zip.DataFormatException;
